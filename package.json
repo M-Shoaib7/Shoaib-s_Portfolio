@@ -19,7 +19,6 @@
     "react-dom": "19.2.4",
     "react-hot-toast": "^2.6.0",
     "react-intersection-observer": "^10.0.3",
-    "react-tilt": "^1.0.2",
     "three": "^0.184.0"
   },
   "devDependencies": {
